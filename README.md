@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Currently working on FluffyFriends (FullStack website for petCare)<br>Looking to collaborate on full-stack apps using Node.js & React<br>Currently learning authentication systems (JWT, security best practices) and TypeScript<br>Ask me about React, Node.js, REST APIs  
+I'm currently working on FluffyFriends (FullStack website for petCare)<br>Looking to collaborate on full-stack apps using Node.js & React<br>Currently learning authentication systems (JWT, security best practices) and TypeScript<br>Ask me about React, Node.js, REST APIs  
+Not Perfect, Just Consistent
 
 
 ## 🌐 Socials:
