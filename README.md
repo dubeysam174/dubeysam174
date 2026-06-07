@@ -14,7 +14,7 @@ Not Perfect, Just Consistent
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dubeysam174/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/dubeysam174/dubeysam174/output/github-contribution-grid-snake.svg" />
 </p>
 
 ### ✍️ Random Dev Quote
