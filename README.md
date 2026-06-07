@@ -3,7 +3,13 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samarthdubey30/) (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dubeysamarth174@gmail.com) 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthdubey30)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeysamarth174@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_samarth_dubey_)
 
 # 💻 Tech Stack:
 <p align="center">
