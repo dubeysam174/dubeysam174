@@ -13,7 +13,7 @@ Not Perfect, Just Consistent
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redis,docker,git,github,vscode,postman,cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,postman,vscode&perline=7" />
 </p>
 <p >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Tech+Stack;MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things" />
