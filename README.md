@@ -6,7 +6,15 @@ Not Perfect, Just Consistent
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_samarth_dubey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthdubey30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dubeysamarth174@gmail.com) 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redis,docker,git,github,vscode,postman,cpp" />
+</p>
 <p >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Tech+Stack;MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things" />
 </p>
