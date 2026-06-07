@@ -9,10 +9,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,cpp,js,ts" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dubeysam174&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dubeysam174&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dubeysam174&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;MERN+Stack+Developer;TypeScript+Enthusiast;Building+Full+Stack+Applications" />
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=dubeysam174&icon=0&color=0)](https://visitcount.itsvg.in)
