@@ -9,7 +9,7 @@ Not Perfect, Just Consistent
 # 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redis,docker,git,github,vscode,postman,c++" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redis,docker,git,github,vscode,postman,cpp" />
 </p>
 
 
