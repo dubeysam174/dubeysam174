@@ -11,35 +11,7 @@ Not Perfect, Just Consistent
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redis,docker,git,github,vscode,postman,c++" />
 </p>
-## 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-</p>
 
-## 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite" />
-</p>
-
-## ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
-
-## ☁️ Deployment & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,gcp" />
-</p>
-
-## 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
