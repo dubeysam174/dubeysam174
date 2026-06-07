@@ -21,3 +21,6 @@
 [![](https://komarev.com/ghpvc/?username=dubeysam174&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dubeysam174/dubeysam174/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
