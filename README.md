@@ -11,10 +11,35 @@ Not Perfect, Just Consistent
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redis,docker,git,github,vscode,postman,c++" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dubeysam174&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dubeysam174&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeysam174&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
+
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite" />
+</p>
+
+## ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+## ☁️ Deployment & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,gcp" />
+</p>
+
+## 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
