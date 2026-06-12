@@ -1,5 +1,5 @@
  💫 About Me:
-🔭 I’m currently working on **FluffyFriends** (Full Stack Pet Care Platform)<br><br>👯 I’m looking to collaborate on **MERN Stack and Full-Stack Projects**<br><br>🤝 I’m looking for help with **System Design and Scalable Architectures**<br><br>🌱 I’m currently learning **TypeScript, Docker, Redis & Authentication Systems**<br><br>💬 Ask me about **React, Node.js, Express.js, MongoDB and REST APIs**<br><br>⚡ Fun fact: **Not Perfect, Just Consistent**
+🔭 I’m currently working on **FluffyFriends** (Full Stack Pet Care Platform)<br><br>👯 I’m looking to collaborate on **MERN Stack and Full-Stack Projects**<br><br>🤝 I’m looking for help with **System Design and Scalable Architectures**<br><br>🌱 I’m currently learning **TypeScript, Docker, Redis & Authentication Systems**<br><br>💬 Ask me about **React, Node.js, Express.js, MongoDB and REST APIs**<br><br>
 
 
  🌐 Socials:
