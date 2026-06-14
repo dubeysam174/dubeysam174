@@ -1,15 +1,15 @@
- 💫 About Me:
+  About Me:
 🔭 I’m currently working on **FluffyFriends** (Full Stack Pet Care Platform)<br><br>👯 I’m looking to collaborate on **MERN Stack and Full-Stack Projects**<br><br>🤝 I’m looking for help with **System Design and Scalable Architectures**<br><br>🌱 I’m currently learning **TypeScript, Docker, Redis & Authentication Systems**<br><br>💬 Ask me about **React, Node.js, Express.js, MongoDB and REST APIs**<br><br>
 
 
- 🌐 Socials:
+  Socials:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthdubey30)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeysamarth174@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_samarth_dubey_)
 
-💻 Tech Stack:
+ Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,cpp,js,ts" />
 </p>
